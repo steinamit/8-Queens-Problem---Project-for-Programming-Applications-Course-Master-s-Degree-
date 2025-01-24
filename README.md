@@ -1,0 +1,1 @@
+# 8-Queens-Problem---Project-for-Programming-Applications-Course-Master-s-Degree-
